@@ -1,8 +1,8 @@
 ---
-name: Unity Coding Series Suggestion
-about: Suggest a Unity coding video on a topic
+name: Python Coding Series Suggestion
+about: Suggest a Python coding video on a topic
 title: ''
-labels: Unity
+labels: Python
 assignees: ''
 
 ---
