@@ -1,20 +1,17 @@
 ---
-name: Garry's Mod Lua Series Suggstion
-about: Suggest a GLua video on a topic
+name: Rust Coding Series Suggestion
+about: Suggest a Rust coding video on a topic
 title: ''
-labels: GLua
+labels: Rust
 assignees: ''
 
 ---
 
 **Suggestion:**
-
 I think ...
 
 **Gamemode:**
-
 *None*
 
 **Relevant resources:**
-
-*None*
+None
