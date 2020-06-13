@@ -5,7 +5,10 @@ labels: GLua
 ---
 
 **Suggestion:**
+I think ...
 
 **Gamemode:** 
+*None*
 
-**Relevant resources to the Gamemode:**
+**Relevant resources:**
+*None*
