@@ -7,8 +7,10 @@ labels: GLua
 **Suggestion:**
 I think ...
 
-**Gamemode:** 
+**Gamemode:**
+
 *None*
 
 **Relevant resources:**
+
 *None*
