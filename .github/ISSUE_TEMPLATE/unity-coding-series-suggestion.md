@@ -1,9 +1,7 @@
 ---
 name: Unity Coding Series Suggestion
-about: Describe this issue template's purpose here.
-title: ''
+about: Suggest a Rust coding video on a topic
 labels: Unity
-assignees: ''
 
 ---
 
