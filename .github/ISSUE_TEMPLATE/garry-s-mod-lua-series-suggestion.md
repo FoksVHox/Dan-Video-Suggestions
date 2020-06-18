@@ -1,5 +1,5 @@
 ---
-name: Garry's Mod Lua Series Suggstion
+name: Garry's Mod Lua Series Suggestion
 about: Suggest a GLua video on a topic
 title: ''
 labels: GLua
