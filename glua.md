@@ -167,3 +167,12 @@ How to set up an addon structure.
 - How to use Animation: MoveTo
 
 <br>**Link:** https://www.youtube.com/watch?v=R_SnOs0teH8
+
+## #23 How to Exploit Net Messages
+*In this video you will learn:*
+- The do's & don't of making large network messages
+- How to exploit bad network messages
+- How to patch bad network messages
+
+<br>**Link:** https://www.youtube.com/watch?v=kEYMNQ-KzBw
+<br>**Suggested by:** @FoksVHox & @dannyf127 
