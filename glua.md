@@ -175,4 +175,4 @@ How to set up an addon structure.
 - How to patch bad network messages
 
 <br>**Link:** https://www.youtube.com/watch?v=kEYMNQ-KzBw
-<br>**Suggested by:** @FoksVHox & @dannyf127 
+<br>**Suggested by:** [@FoksVHox](https://github.com/FoksVHox) & [@dannyf127](https://github.com/dannyf127) 
